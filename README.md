@@ -41,6 +41,9 @@ IT student in Dar es Salaam, Tanzania — building software, breaking Linux inst
 - 🛠️ Polishing my Hyprland/Niri rice and dotfiles
 - 📱 Validating the Accountable app concept
 
+## PROTFOLIO
+<a href="https://nicho7684.github.io/"> protfolio web page </a>
+
 ### Pinned projects
 
 Check out the pinned repositories below for my best work — including a Java OOP payroll system, my Arch Linux dotfiles, and ongoing networking labs.
