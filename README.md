@@ -23,12 +23,13 @@ IT student in Dar es Salaam, Tanzania — building software, breaking Linux inst
 ### Tech stack
 
 **Languages**
-![Java](https://img.shields.io/badge/Java-2dd4bf?style=flat-square&logo=openjdk&logoColor=black)
-![Python](https://img.shields.io/badge/Python-2dd4bf?style=flat-square&logo=python&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-2dd4bf?style=flat-square&logo=gnubash&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-2dd4bf?style=flat-square&logo=html5&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 **Tools & systems**
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-2dd4bf?style=flat-square&logo=archlinux&logoColor=black)
 ![Hyprland](https://img.shields.io/badge/Hyprland-2dd4bf?style=flat-square&logo=wayland&logoColor=black)
