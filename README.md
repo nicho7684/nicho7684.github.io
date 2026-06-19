@@ -8,7 +8,7 @@ IT student in Dar es Salaam, Tanzania — building software, breaking Linux inst
 </p>
 
 <p align="center">
-  <a herf="https://linkedin.com/in/nicholas-emmanuel-94211b3a8"><img src="https://img.shields.io/badge/MY_PORTFOLIO-2dd4bf?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://nicho7684.github.io/"><img src="https://img.shields.io/badge/portfolio-2dd4bf?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 </p>
 <p align="center">
   <a href="mailto:nicholasgyuzi18@gmail.com"><img src="https://img.shields.io/badge/email-2dd4bf?style=flat-square&logo=gmail&logoColor=white" /></a>
