@@ -9,7 +9,7 @@ IT student in Dar es Salaam, Tanzania — building software, breaking Linux inst
 
 <p align="center">
   <a herf="https://nicho7684.github.io/">
-    <img src="https://img.shields.io/badge/MY_PORTFOLIO-2dd4bf?style=for-the-badge&logo=googlechrome&logoColor=white" height="100">
+    <img src="https://img.shields.io/badge/MY_PORTFOLIO-2dd4bf?style=for-the-badge&logo=googlechrome&logoColor=white" height="100"/>
   </a>
 </p>
 <p align="center">
