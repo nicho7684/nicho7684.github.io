@@ -31,10 +31,13 @@ IT student in Dar es Salaam, Tanzania — building software, breaking Linux inst
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Tools & systems**
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-2dd4bf?style=flat-square&logo=archlinux&logoColor=black)
-![Hyprland](https://img.shields.io/badge/Hyprland-2dd4bf?style=flat-square&logo=wayland&logoColor=black)
-![Git](https://img.shields.io/badge/Git-2dd4bf?style=flat-square&logo=git&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2dd4bf?style=flat-square&logo=docker&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=flat-square&logo=gnome&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=wayland&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### What I'm working on
 
