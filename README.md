@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Bruno Pixels.gif" width="100" height="50">
+<img src="assets/Bruno Pixels.gif" width="1000" height="500">
 </p>
 <h1 align="center">Hi, I'm Niko 👋</h1>
 
