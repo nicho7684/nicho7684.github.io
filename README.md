@@ -21,10 +21,11 @@ IT student in Dar es Salaam, Tanzania — building software, breaking Linux inst
 
 ### About me
 
-- 🎓 Studying Information Technology — coursework in Java/OOP, networking, IoT, and e-commerce systems
+- 🎓 Studying in Basic Technician Certificate in Information and Communication Technology (ICT) 
 - 🐧 Running Arch Linux with Hyprland, deep in dotfiles and Wayland configuration
 - 🌐 Interested in self-hosting, homelab setups (Proxmox, Docker), and networking fundamentals
 - 💡 Currently exploring a side project called **Accountable** — a human-to-human accountability app
+- 📱other web development projects
 - 📍 Based in Dar es Salaam, Tanzania
 
 ### Tech stack
