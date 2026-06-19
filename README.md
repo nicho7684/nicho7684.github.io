@@ -1,3 +1,6 @@
+<p align="center">
+<img src="Bruno Pixels.gif" width="100" height="50">
+</p>
 <h1 align="center">Hi, I'm Niko 👋</h1>
 
 <p align="center">
