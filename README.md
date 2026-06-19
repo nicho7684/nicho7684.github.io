@@ -25,7 +25,7 @@ IT student in Dar es Salaam, Tanzania — building software, breaking Linux inst
 - 🐧 Running Arch Linux with Hyprland, deep in dotfiles and Wayland configuration
 - 🌐 Interested in self-hosting, homelab setups (Proxmox, Docker), and networking fundamentals
 - 💡 Currently exploring a side project called **Accountable** — a human-to-human accountability app
-- 📱other web development projects
+- 📱other projects include web and App development projects,hardware maintenance 
 - 📍 Based in Dar es Salaam, Tanzania
 
 ### Tech stack
@@ -51,15 +51,12 @@ IT student in Dar es Salaam, Tanzania — building software, breaking Linux inst
 
 ### What I'm working on
 
-- 🔧 Setting up a homelab with Proxmox and self-hosted services
+- 🔧 planning on Setting up a homelab with Proxmox and self-hosted services
 - 📡 Practicing network design — subnetting, router configuration, IP addressing
-- 🛠️ Polishing my Hyprland/Niri rice and dotfiles
+- 🛠️ Polishing my Hyprland/Niri rice on Archlinux and dotfiles
 - 📱 Validating the Accountable app concept
 
-## PROTFOLIO
-<a href="https://nicho7684.github.io/"> protfolio web page </a>
-
-### Pinned projects
+### Pinned projects (comming soon)
 
 Check out the pinned repositories below for my best work — including a Java OOP payroll system, my Arch Linux dotfiles, and ongoing networking labs.
 
