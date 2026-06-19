@@ -5,8 +5,8 @@ IT student in Dar es Salaam, Tanzania — building software, breaking Linux inst
 </p>
 
 <p align="center">
-  <a href="https://yourusername.github.io"><img src="https://img.shields.io/badge/portfolio-2dd4bf?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/email-2dd4bf?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://nicho7684.github.io/"><img src="https://img.shields.io/badge/portfolio-2dd4bf?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:nicholasgyuzi18@gmail.com"><img src="https://img.shields.io/badge/email-2dd4bf?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/linkedin-2dd4bf?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
