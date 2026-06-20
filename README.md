@@ -61,5 +61,5 @@ Check out the pinned repositories below for my best work — including a Java OO
 ---
 
 <p align="center">
-<img src="assets/img.jpg" width="1000" height="500"/>
+<img src="assets/img2.jpg" width="1000" height="500"/>
 </p>
