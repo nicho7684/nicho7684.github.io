@@ -61,5 +61,5 @@ Check out the pinned repositories below for my best work — including a Java OO
 ---
 
 <p align="center">
-<sub>Currently learning: networking fundamentals · self-hosting · Wayland window management</sub>
+<img src="assets/img.jpg" width="1000" height="500"/>
 </p>
